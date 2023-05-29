@@ -1,0 +1,175 @@
+.header-link {
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.traditional-title {
+    font-weight: 200;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+}
+
+.traditional-text-box {
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.traditional-button {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    background: #B47B48;
+    border-radius: 17px;
+}
+
+.traditional-price {
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.traditional-product {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.traditional-list-button {
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #B47B48;
+    border-radius: 17px;
+}
+
+.Menu-title {
+    font-weight: 100;
+    font-size: 64px;
+    line-height: 77px;
+    color: #FFFFFF;
+}
+
+.Menu-Breads {
+    font-weight: 800;
+    font-size: 25.92px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.Menu-button {
+    font-weight: 800;
+    font-size: 25.92px;
+    line-height: 31px;
+    color: #FFFFFF;
+    background: #B47B48;
+    border-radius: 17px;
+}
+
+.Quality-title {
+    font-family: 'Italiana';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    color: #FFFFFF;
+}
+.Quality-text-box {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.bakery-title {
+    font-family: 'Italiana';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    color: #D9D9D9;
+}
+
+.bakery-Order {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.Where-title {
+    font-family: 'Italiana';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    color: #FFFFFF;
+}
+.Where-How {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.Where-text-box {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.artisax-title {
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.artisax-about {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.artisax-text-box {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.body {
+    background: #202023;
+}
+
+.body {
+    font-family: 'Inter';
+}
+.header-link {
+    text-decoration: none;
+}
+.traditional-list {
+    list-style: none;
+}
+.Menu-list {
+    list-style: none;
+}
+.Quality-list {
+    list-style: none;
+}
+.bakery-list {
+    list-style: none;
+}
+.Where-list {
+    list-style: none;
+}
+.artisax-list {
+    list-style: none;
+}
